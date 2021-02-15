@@ -1,0 +1,2 @@
+(this["webpackJsonp08-phonebook"]=this["webpackJsonp08-phonebook"]||[]).push([[8],{179:function(n,t,e){n.exports={main:"NotFoundView_main__2xj4Q",img:"NotFoundView_img__1jDol",title:"NotFoundView_title__26G_F"}},202:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return s}));var o=e(179),i=e.n(o),a=e(2);function s(){return Object(a.jsx)("main",{role:"alert",className:i.a.main,children:Object(a.jsx)("h1",{className:i.a.title,children:"Page not found"})})}}}]);
+//# sourceMappingURL=8.3e615251.chunk.js.map
