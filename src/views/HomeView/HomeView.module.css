@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-weight: 900;
+  font-size: 35px;
+  color: #131111;
+}
+
+.info {
+  font-size: 20px;
+  color: #131111;
+}
